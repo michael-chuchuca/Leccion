@@ -23,7 +23,7 @@ componentes: Componente[]= [
     redirecTo: '/action-sheet'
   },
   {
-    icon: 'logo-apple-appstore',
+    icon: 'alert-circle-outline',
     name: 'Alert',
     redirecTo: '/alert'
   },
